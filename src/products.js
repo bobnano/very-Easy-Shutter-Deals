@@ -11,7 +11,7 @@ const products = [
     {
         id: 4,
         title: "Realme Buds T310 Truly Wireless in-Ear Earbuds",
-        category: "Mobile Mccessories",
+        category: "Mobile Accessories",
         description: "This Tws comes With 46dB Hybrid ANC, 360° Spatial Audio, 12.4mm Dynamic Bass Driver, Upto 40Hrs Battery and Fast Charging (Monet Purple)",
         link:"https://amzn.to/3N8TXag",
         img:"https://m.media-amazon.com/images/I/61grOKkDUvL._SL1500_.jpg"
