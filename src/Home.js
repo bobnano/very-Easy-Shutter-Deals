@@ -87,7 +87,6 @@ const Home = () => {
                     src={viewMoreProduct.img}
                     alt={viewMoreProduct.id}
                     className="img-fluid rounded-start"
-                    width="300px" height="300px"
                   />
               </div>
               <p>
