@@ -83,7 +83,12 @@ const Home = () => {
                 <strong>Category:</strong> {viewMoreProduct.category}
               </p>
               <div className="rounded p-2>
-                <img src={viewMoreProduct.img} alt={viewMoreProduct.id} width="300px" height="300px">
+                <img
+                    src={viewMoreProduct.img}
+                    alt={viewMoreProduct.id}
+                    className="img-fluid rounded-start"
+                    width="300px" height="300px"
+                  />
               </div>
               <p>
                 <strong>Description:</strong> {viewMoreProduct.description}
