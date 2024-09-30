@@ -82,9 +82,9 @@ const Home = () => {
               <p>
                 <strong>Category:</strong> {viewMoreProduct.category}
               </p>
-              <p>
-                <strong>Price Range:</strong> {viewMoreProduct.priceRange}
-              </p>
+              <div className="rounded p-2>
+                <img src={viewMoreProduct.img} alt={viewMoreProduct.id} width="300px" height="300px"/>
+              </div>
               <p>
                 <strong>Description:</strong> {viewMoreProduct.description}
               </p>
