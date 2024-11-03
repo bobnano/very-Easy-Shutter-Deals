@@ -16,6 +16,14 @@ const products = [
         link:"https://amzn.to/3N8TXag",
         img:"https://m.media-amazon.com/images/I/61grOKkDUvL._SL1500_.jpg"
     },
+     {
+        id: 5,
+        title: "Samsung front load washing machine",
+        category: "Electronics Appliances",
+        description: "",
+        link:"https://amzn.to/3UCxiaB",
+        img:"https://m.media-amazon.com/images/I/713eN3yDIIL._SL1500_.jpg"
+    },
     //   {
     //     id: 3,
     //     title: "Spigen 5in1 10000mAh Wireless Power Bank",
